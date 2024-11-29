@@ -8,12 +8,12 @@
 - **Hardware & Software Info**: Collects detailed system specifications.  
 - **Offline Storage**: Saves all the collected data directly to the USB device.
 
-#🛡️ **Disclaimer**  
+# 🛡️ **Disclaimer**  
 This project is for **educational purposes only**. Unauthorized access to devices or data is **illegal** and punishable by law. Use this tool responsibly and only with proper authorization.
 
 ---
 
-✨ **How to Use**  
+# ✨ **How to Use**  
 
 **Set Up the USB Rubber Ducky:**  
 - Load the `payload.dd` onto your Rubber Ducky device.  
@@ -28,22 +28,22 @@ This project is for **educational purposes only**. Unauthorized access to device
 
 ---
 
-💡 **Customization**  
+# 💡 **Customization**  
 Feel free to modify the `payload.dd` or `sy_cred.ps1` script to add/remove features or change storage behavior.
 
 ---
 
-📢 **Contribute**  
+# 📢 **Contribute**  
 Found a bug or have an idea for improvement? Open an issue or submit a pull request! Contributions are welcome.
 
 ---
 
-⚠️ **Warning**  
+# ⚠️ **Warning**  
 Using **HackyQuacky** maliciously or without permission can have serious consequences. Always ensure you are operating within legal boundaries.
 
 ---
 
-#🦆Create a usb rubber ducky using raspberrypi pico with this
+# 🦆Create a usb rubber ducky using raspberrypi pico with this
   https://github.com/dbisu/pico-ducky
 
 Enjoy responsibly! 🦆
