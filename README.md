@@ -43,6 +43,9 @@ Using **HackyQuacky** maliciously or without permission can have serious consequ
 
 ---
 
+#🦆Create a usb rubber ducky using raspberrypi pico with this
+  https://github.com/dbisu/pico-ducky
+
 Enjoy responsibly! 🦆
 
 
