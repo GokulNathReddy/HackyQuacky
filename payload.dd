@@ -2,7 +2,6 @@ ATTACKMODE HID STORAGE
 EXTENSION PASSIVE_WINDOWS_DETECT
 
 REM VERSION 1.2
-REM AUTHOR: Korben (Modified by Assistant)
 
 REM_BLOCK DOCUMENTATION
     Updated version with additional delays and error handling for opening the .ps1 file.
