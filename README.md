@@ -8,17 +8,7 @@
 - **Hardware & Software Info**: Collects detailed system specifications.  
 - **Offline Storage**: Saves all the collected data directly to the USB device.
 
----
-
-## 📁 Project Structure
-```plaintext
-HackyQuacky/
-│
-├── payload.dd         # Rubber Ducky payload script
-├── sy_cred.ps1         # PowerShell script for data extraction
-└── README.md           # Project documentation
-
-🛡️ **Disclaimer**  
+#🛡️ **Disclaimer**  
 This project is for **educational purposes only**. Unauthorized access to devices or data is **illegal** and punishable by law. Use this tool responsibly and only with proper authorization.
 
 ---
@@ -54,4 +44,16 @@ Using **HackyQuacky** maliciously or without permission can have serious consequ
 ---
 
 Enjoy responsibly! 🦆
+
+
+---
+
+## 📁 Project Structure
+```plaintext
+HackyQuacky/
+│
+├── payload.dd         # Rubber Ducky payload script
+├── sy_cred.ps1         # PowerShell script for data extraction
+└── README.md           # Project documentation
+
 
